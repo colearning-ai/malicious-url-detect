@@ -8,7 +8,7 @@
 __Pre-requisites :__ [conda](https://repo.anaconda.com/) and [git](https://git-scm.com/)     
 *Please Note : All System Paths in the scripts, are coded in UNIX OS format, please convert '/' to "\\\ " for Windows OS.*
 ```
-git clone https://github.com/Rohith-2/url_classification_dl.git
+git clone https://github.com/colearning-ai/malicious-url-detect.git
 cd url_classification_dl
 conda create -n pyenv python=3.8.5
 conda activate pyenv
@@ -44,8 +44,6 @@ streamlit run predict.py
 <hr style=\"border:0.5px solid gray\"> </hr>   
   
 ## GUI:  
-
-![Screenshot 2021-05-21 at 12 18 06 PM](https://user-images.githubusercontent.com/55501708/119094445-a8e87280-ba2e-11eb-8241-56c580f073cb.png)  
 
 ## Data Description via Extracted Features:
 | Feature Name | Feature Group | Feature Discription|
