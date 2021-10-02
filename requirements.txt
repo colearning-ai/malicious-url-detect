@@ -13,3 +13,4 @@ keras
 tensorflow
 streamlit
 watchdogs
+scikit-learn==0.23.2
